@@ -2,7 +2,7 @@
 
 Este repositorio contiene el analisis, descifrado y normalización de las configuraciones de servidores la aplicacion **Fenix VPN**. En el proyecto documento como se superaron las multiples capas de seguridad para exponer los servidores.
 
-## Detalles de la ingeniería inversa
+## Detalles de la ingenieria inversa
 
 El proceso de extraccion se dividio en tres fases criticas para romper la seguridad de la aplicacion:
 
